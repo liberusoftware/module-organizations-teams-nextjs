@@ -1,0 +1,25 @@
+{
+  "repository": "module-organizations-teams-nextjs",
+  "capabilityKey": "liberusoftware/organizations-teams",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-organizations-teams-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/boilerplate/nextjs/organizations-teams.md",
+  "presentationPlan": "projects/boilerplate/nextjs/organizations-teams.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "automation",
+    "billing",
+    "boilerplate",
+    "browser-game",
+    "control-panel",
+    "crm",
+    "genealogy",
+    "maintenance",
+    "real-estate",
+    "social-network"
+  ]
+}
